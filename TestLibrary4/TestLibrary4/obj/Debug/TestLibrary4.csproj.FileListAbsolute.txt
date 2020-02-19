@@ -1,0 +1,16 @@
+C:\temp\TestLibrary4\TestLibrary4\bin\Debug\TestLibrary4.exe.config
+C:\temp\TestLibrary4\TestLibrary4\bin\Debug\TestLibrary4.exe
+C:\temp\TestLibrary4\TestLibrary4\bin\Debug\TestLibrary4.pdb
+C:\temp\TestLibrary4\TestLibrary4\bin\Debug\CS1Library4.dll
+C:\temp\TestLibrary4\TestLibrary4\bin\Debug\CS1Library4.pdb
+C:\temp\TestLibrary4\TestLibrary4\obj\Debug\TestLibrary4.csprojResolveAssemblyReference.cache
+C:\temp\TestLibrary4\TestLibrary4\obj\Debug\TestLibrary4.exe
+C:\temp\TestLibrary4\TestLibrary4\obj\Debug\TestLibrary4.pdb
+M:\CSharp\TestLibrary4\TestLibrary4\bin\Debug\TestLibrary4.exe.config
+M:\CSharp\TestLibrary4\TestLibrary4\obj\Debug\TestLibrary4.exe
+M:\CSharp\TestLibrary4\TestLibrary4\obj\Debug\TestLibrary4.pdb
+M:\CSharp\TestLibrary4\TestLibrary4\bin\Debug\TestLibrary4.exe
+M:\CSharp\TestLibrary4\TestLibrary4\bin\Debug\TestLibrary4.pdb
+M:\CSharp\TestLibrary4\TestLibrary4\bin\Debug\CS1Library4.dll
+M:\CSharp\TestLibrary4\TestLibrary4\bin\Debug\CS1Library4.pdb
+M:\CSharp\TestLibrary4\TestLibrary4\obj\Debug\TestLibrary4.csprojResolveAssemblyReference.cache

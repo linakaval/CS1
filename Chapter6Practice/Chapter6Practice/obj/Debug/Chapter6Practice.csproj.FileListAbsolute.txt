@@ -1,0 +1,8 @@
+M:\CSharp\Chapter6Practice\Chapter6Practice\bin\Debug\Chapter6Practice.exe.config
+M:\CSharp\Chapter6Practice\Chapter6Practice\bin\Debug\Chapter6Practice.exe
+M:\CSharp\Chapter6Practice\Chapter6Practice\bin\Debug\Chapter6Practice.pdb
+M:\CSharp\Chapter6Practice\Chapter6Practice\obj\Debug\Chapter6Practice.exe
+M:\CSharp\Chapter6Practice\Chapter6Practice\obj\Debug\Chapter6Practice.pdb
+M:\CS1\CSharp\Chapter6Practice\Chapter6Practice\bin\Debug\Chapter6Practice.exe.config
+M:\CS1\CSharp\Chapter6Practice\Chapter6Practice\obj\Debug\Chapter6Practice.exe
+M:\CS1\CSharp\Chapter6Practice\Chapter6Practice\obj\Debug\Chapter6Practice.pdb

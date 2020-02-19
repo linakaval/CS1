@@ -1,0 +1,12 @@
+M:\CSharp\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe.config
+M:\CSharp\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe
+M:\CSharp\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.pdb
+M:\CSharp\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csprojResolveAssemblyReference.cache
+M:\CSharp\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.Form1.resources
+M:\CSharp\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.Properties.Resources.resources
+M:\CSharp\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.csproj.GenerateResource.Cache
+M:\CSharp\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.exe
+M:\CSharp\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.pdb
+M:\CS1\CSharp\GraphicsDemo\GraphicsDemo\bin\Debug\GraphicsDemo.exe.config
+M:\CS1\CSharp\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.exe
+M:\CS1\CSharp\GraphicsDemo\GraphicsDemo\obj\Debug\GraphicsDemo.pdb

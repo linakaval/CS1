@@ -1,0 +1,12 @@
+M:\CSharp\StudentTester\StudentTester\bin\Debug\StudentTester.exe.config
+M:\CSharp\StudentTester\StudentTester\bin\Debug\StudentTester.exe
+M:\CSharp\StudentTester\StudentTester\bin\Debug\StudentTester.pdb
+M:\CSharp\StudentTester\StudentTester\obj\Debug\StudentTester.csprojResolveAssemblyReference.cache
+M:\CSharp\StudentTester\StudentTester\obj\Debug\StudentTester.Form1.resources
+M:\CSharp\StudentTester\StudentTester\obj\Debug\StudentTester.Properties.Resources.resources
+M:\CSharp\StudentTester\StudentTester\obj\Debug\StudentTester.csproj.GenerateResource.Cache
+M:\CSharp\StudentTester\StudentTester\obj\Debug\StudentTester.exe
+M:\CSharp\StudentTester\StudentTester\obj\Debug\StudentTester.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\StudentTester\StudentTester\bin\Debug\StudentTester.exe.config
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\StudentTester\StudentTester\obj\Debug\StudentTester.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\StudentTester\StudentTester\obj\Debug\StudentTester.pdb

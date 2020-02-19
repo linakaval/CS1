@@ -1,0 +1,8 @@
+M:\CSharp\FunWithFor\FunWithFor\bin\Debug\FunWithFor.exe.config
+M:\CSharp\FunWithFor\FunWithFor\bin\Debug\FunWithFor.exe
+M:\CSharp\FunWithFor\FunWithFor\bin\Debug\FunWithFor.pdb
+M:\CSharp\FunWithFor\FunWithFor\obj\Debug\FunWithFor.exe
+M:\CSharp\FunWithFor\FunWithFor\obj\Debug\FunWithFor.pdb
+M:\CS1\CSharp\FunWithFor\FunWithFor\bin\Debug\FunWithFor.exe.config
+M:\CS1\CSharp\FunWithFor\FunWithFor\obj\Debug\FunWithFor.exe
+M:\CS1\CSharp\FunWithFor\FunWithFor\obj\Debug\FunWithFor.pdb

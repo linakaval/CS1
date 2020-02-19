@@ -1,0 +1,6 @@
+M:\CSharp\InputDemo\InputDemo\bin\Debug\InputDemo.exe.config
+M:\CSharp\InputDemo\InputDemo\bin\Debug\InputDemo.exe
+M:\CSharp\InputDemo\InputDemo\bin\Debug\InputDemo.pdb
+M:\CSharp\InputDemo\InputDemo\obj\Debug\InputDemo.csprojResolveAssemblyReference.cache
+M:\CSharp\InputDemo\InputDemo\obj\Debug\InputDemo.exe
+M:\CSharp\InputDemo\InputDemo\obj\Debug\InputDemo.pdb

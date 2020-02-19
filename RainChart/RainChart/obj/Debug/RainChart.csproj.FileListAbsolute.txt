@@ -1,0 +1,6 @@
+M:\CSharp\RainChart\RainChart\bin\Debug\RainChart.exe.config
+M:\CSharp\RainChart\RainChart\bin\Debug\RainChart.exe
+M:\CSharp\RainChart\RainChart\bin\Debug\RainChart.pdb
+M:\CSharp\RainChart\RainChart\obj\Debug\RainChart.csprojResolveAssemblyReference.cache
+M:\CSharp\RainChart\RainChart\obj\Debug\RainChart.exe
+M:\CSharp\RainChart\RainChart\obj\Debug\RainChart.pdb

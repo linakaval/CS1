@@ -1,0 +1,16 @@
+M:\CSharp\NumberGame\NumberGame\bin\Release\NumberGame.exe.config
+M:\CSharp\NumberGame\NumberGame\bin\Release\NumberGame.exe
+M:\CSharp\NumberGame\NumberGame\bin\Release\NumberGame.pdb
+M:\CSharp\NumberGame\NumberGame\bin\Release\CS1Library4.dll
+M:\CSharp\NumberGame\NumberGame\bin\Release\CS1Library4.pdb
+M:\CSharp\NumberGame\NumberGame\obj\Release\NumberGame.exe
+M:\CSharp\NumberGame\NumberGame\obj\Release\NumberGame.pdb
+M:\CSharp\NumberGame\NumberGame\obj\Release\NumberGame.csprojResolveAssemblyReference.cache
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\NumberGame\NumberGame\bin\Release\NumberGame.exe.config
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\NumberGame\NumberGame\obj\Release\NumberGame.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\NumberGame\NumberGame\obj\Release\NumberGame.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\NumberGame\NumberGame\bin\Release\NumberGame.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\NumberGame\NumberGame\bin\Release\NumberGame.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\NumberGame\NumberGame\bin\Release\CS1Library4.dll
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\NumberGame\NumberGame\bin\Release\CS1Library4.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\NumberGame\NumberGame\obj\Release\NumberGame.csprojResolveAssemblyReference.cache

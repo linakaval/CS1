@@ -1,0 +1,6 @@
+M:\CSharp\StringFormatDemo\StringFormatDemo\bin\Debug\StringFormatDemo.exe.config
+M:\CSharp\StringFormatDemo\StringFormatDemo\bin\Debug\StringFormatDemo.exe
+M:\CSharp\StringFormatDemo\StringFormatDemo\bin\Debug\StringFormatDemo.pdb
+M:\CSharp\StringFormatDemo\StringFormatDemo\obj\Debug\StringFormatDemo.csprojResolveAssemblyReference.cache
+M:\CSharp\StringFormatDemo\StringFormatDemo\obj\Debug\StringFormatDemo.exe
+M:\CSharp\StringFormatDemo\StringFormatDemo\obj\Debug\StringFormatDemo.pdb

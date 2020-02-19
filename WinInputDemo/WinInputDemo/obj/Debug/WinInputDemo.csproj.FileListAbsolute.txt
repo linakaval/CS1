@@ -1,0 +1,9 @@
+M:\CSharp\WinInputDemo\WinInputDemo\bin\Debug\WinInputDemo.exe.config
+M:\CSharp\WinInputDemo\WinInputDemo\bin\Debug\WinInputDemo.exe
+M:\CSharp\WinInputDemo\WinInputDemo\bin\Debug\WinInputDemo.pdb
+M:\CSharp\WinInputDemo\WinInputDemo\obj\Debug\WinInputDemo.csprojResolveAssemblyReference.cache
+M:\CSharp\WinInputDemo\WinInputDemo\obj\Debug\WinInputDemo.Form1.resources
+M:\CSharp\WinInputDemo\WinInputDemo\obj\Debug\WinInputDemo.Properties.Resources.resources
+M:\CSharp\WinInputDemo\WinInputDemo\obj\Debug\WinInputDemo.csproj.GenerateResource.Cache
+M:\CSharp\WinInputDemo\WinInputDemo\obj\Debug\WinInputDemo.exe
+M:\CSharp\WinInputDemo\WinInputDemo\obj\Debug\WinInputDemo.pdb

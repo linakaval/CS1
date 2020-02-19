@@ -1,0 +1,6 @@
+M:\CSharp\Randomness\Randomness\bin\Debug\Randomness.exe.config
+M:\CSharp\Randomness\Randomness\obj\Debug\Randomness.csprojResolveAssemblyReference.cache
+M:\CSharp\Randomness\Randomness\bin\Debug\Randomness.exe
+M:\CSharp\Randomness\Randomness\bin\Debug\Randomness.pdb
+M:\CSharp\Randomness\Randomness\obj\Debug\Randomness.exe
+M:\CSharp\Randomness\Randomness\obj\Debug\Randomness.pdb

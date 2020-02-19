@@ -1,0 +1,9 @@
+M:\CSharp\DialogProject\DialogProject\bin\Debug\DialogProject.exe.config
+M:\CSharp\DialogProject\DialogProject\bin\Debug\DialogProject.exe
+M:\CSharp\DialogProject\DialogProject\bin\Debug\DialogProject.pdb
+M:\CSharp\DialogProject\DialogProject\obj\Debug\DialogProject.csprojResolveAssemblyReference.cache
+M:\CSharp\DialogProject\DialogProject\obj\Debug\DialogProject.exe
+M:\CSharp\DialogProject\DialogProject\obj\Debug\DialogProject.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\DialogProject\DialogProject\bin\Debug\DialogProject.exe.config
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\DialogProject\DialogProject\obj\Debug\DialogProject.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\DialogProject\DialogProject\obj\Debug\DialogProject.pdb

@@ -1,0 +1,6 @@
+M:\CSharp\TestingCode\TestingCode\bin\Debug\TestingCode.exe.config
+M:\CSharp\TestingCode\TestingCode\bin\Debug\TestingCode.exe
+M:\CSharp\TestingCode\TestingCode\bin\Debug\TestingCode.pdb
+M:\CSharp\TestingCode\TestingCode\obj\Debug\TestingCode.csprojResolveAssemblyReference.cache
+M:\CSharp\TestingCode\TestingCode\obj\Debug\TestingCode.exe
+M:\CSharp\TestingCode\TestingCode\obj\Debug\TestingCode.pdb

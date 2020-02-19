@@ -1,0 +1,8 @@
+M:\CSharp\GraphicsDemo\GraphicsDemoPart2\bin\Debug\GraphicsDemoPart2.exe.config
+M:\CSharp\GraphicsDemo\GraphicsDemoPart2\bin\Debug\GraphicsDemoPart2.exe
+M:\CSharp\GraphicsDemo\GraphicsDemoPart2\bin\Debug\GraphicsDemoPart2.pdb
+M:\CSharp\GraphicsDemo\GraphicsDemoPart2\obj\Debug\GraphicsDemoPart2.Form1.resources
+M:\CSharp\GraphicsDemo\GraphicsDemoPart2\obj\Debug\GraphicsDemoPart2.Properties.Resources.resources
+M:\CSharp\GraphicsDemo\GraphicsDemoPart2\obj\Debug\GraphicsDemoPart2.csproj.GenerateResource.Cache
+M:\CSharp\GraphicsDemo\GraphicsDemoPart2\obj\Debug\GraphicsDemoPart2.exe
+M:\CSharp\GraphicsDemo\GraphicsDemoPart2\obj\Debug\GraphicsDemoPart2.pdb

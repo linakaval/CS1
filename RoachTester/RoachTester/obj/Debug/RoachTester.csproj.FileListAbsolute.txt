@@ -1,0 +1,6 @@
+M:\CSharp\RoachTester\RoachTester\bin\Debug\RoachTester.exe.config
+M:\CSharp\RoachTester\RoachTester\bin\Debug\RoachTester.exe
+M:\CSharp\RoachTester\RoachTester\bin\Debug\RoachTester.pdb
+M:\CSharp\RoachTester\RoachTester\obj\Debug\RoachTester.csprojResolveAssemblyReference.cache
+M:\CSharp\RoachTester\RoachTester\obj\Debug\RoachTester.exe
+M:\CSharp\RoachTester\RoachTester\obj\Debug\RoachTester.pdb

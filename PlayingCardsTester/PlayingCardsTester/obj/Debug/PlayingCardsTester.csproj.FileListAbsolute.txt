@@ -1,0 +1,6 @@
+M:\CSharp\PlayingCardsTester\PlayingCardsTester\bin\Debug\PlayingCardsTester.exe.config
+M:\CSharp\PlayingCardsTester\PlayingCardsTester\bin\Debug\PlayingCardsTester.exe
+M:\CSharp\PlayingCardsTester\PlayingCardsTester\bin\Debug\PlayingCardsTester.pdb
+M:\CSharp\PlayingCardsTester\PlayingCardsTester\obj\Debug\PlayingCardsTester.csprojResolveAssemblyReference.cache
+M:\CSharp\PlayingCardsTester\PlayingCardsTester\obj\Debug\PlayingCardsTester.exe
+M:\CSharp\PlayingCardsTester\PlayingCardsTester\obj\Debug\PlayingCardsTester.pdb

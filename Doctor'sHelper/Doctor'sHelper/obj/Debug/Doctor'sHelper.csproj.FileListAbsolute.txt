@@ -1,0 +1,21 @@
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\bin\Debug\Doctor'sHelper.exe.config
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\bin\Debug\Doctor'sHelper.exe
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\bin\Debug\Doctor'sHelper.pdb
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.csprojResolveAssemblyReference.cache
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor_sHelper.Form1.resources
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor_sHelper.Properties.Resources.resources
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.csproj.GenerateResource.Cache
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.exe
+M:\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\bin\Debug\Doctor'sHelper.exe.config
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\bin\Debug\Doctor'sHelper.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\bin\Debug\Doctor'sHelper.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.csprojResolveAssemblyReference.cache
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor_sHelper.Form1.resources
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor_sHelper.Properties.Resources.resources
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.csproj.GenerateResource.Cache
+M:\CS1\CSharp\Doctor'sHelper\Doctor'sHelper\bin\Debug\Doctor'sHelper.exe.config
+M:\CS1\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.exe
+M:\CS1\CSharp\Doctor'sHelper\Doctor'sHelper\obj\Debug\Doctor'sHelper.pdb

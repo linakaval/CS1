@@ -1,0 +1,12 @@
+M:\CSharp\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+M:\CSharp\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+M:\CSharp\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+M:\CSharp\MadLibs\MadLibs\obj\Debug\MadLibs.csprojResolveAssemblyReference.cache
+M:\CSharp\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+M:\CSharp\MadLibs\MadLibs\obj\Debug\MadLibs.pdb
+M:\CS1\CSharp\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+M:\CS1\CSharp\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+M:\CS1\CSharp\MadLibs\MadLibs\obj\Debug\MadLibs.pdb
+M:\CS1\CSharp\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+M:\CS1\CSharp\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+M:\CS1\CSharp\MadLibs\MadLibs\obj\Debug\MadLibs.csprojResolveAssemblyReference.cache

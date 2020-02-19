@@ -1,0 +1,6 @@
+M:\CSharp\SelfPortrait\SelfPortrait\bin\Debug\SelfPortrait.exe.config
+M:\CSharp\SelfPortrait\SelfPortrait\bin\Debug\SelfPortrait.exe
+M:\CSharp\SelfPortrait\SelfPortrait\bin\Debug\SelfPortrait.pdb
+M:\CSharp\SelfPortrait\SelfPortrait\obj\Debug\SelfPortrait.exe
+M:\CSharp\SelfPortrait\SelfPortrait\obj\Debug\SelfPortrait.pdb
+M:\CSharp\SelfPortrait\SelfPortrait\obj\Debug\SelfPortrait.csprojResolveAssemblyReference.cache

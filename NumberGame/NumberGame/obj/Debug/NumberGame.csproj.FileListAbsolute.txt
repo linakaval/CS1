@@ -1,0 +1,8 @@
+M:\CSharp\NumberGame\NumberGame\bin\Debug\NumberGame.exe.config
+M:\CSharp\NumberGame\NumberGame\bin\Debug\NumberGame.exe
+M:\CSharp\NumberGame\NumberGame\bin\Debug\NumberGame.pdb
+M:\CSharp\NumberGame\NumberGame\bin\Debug\CS1Library4.dll
+M:\CSharp\NumberGame\NumberGame\bin\Debug\CS1Library4.pdb
+M:\CSharp\NumberGame\NumberGame\obj\Debug\NumberGame.csprojResolveAssemblyReference.cache
+M:\CSharp\NumberGame\NumberGame\obj\Debug\NumberGame.exe
+M:\CSharp\NumberGame\NumberGame\obj\Debug\NumberGame.pdb

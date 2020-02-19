@@ -1,0 +1,9 @@
+M:\CSharp\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.exe.config
+M:\CSharp\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.exe
+M:\CSharp\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.pdb
+M:\CSharp\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.csprojResolveAssemblyReference.cache
+M:\CSharp\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.Form1.resources
+M:\CSharp\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.Properties.Resources.resources
+M:\CSharp\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.csproj.GenerateResource.Cache
+M:\CSharp\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.exe
+M:\CSharp\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.pdb

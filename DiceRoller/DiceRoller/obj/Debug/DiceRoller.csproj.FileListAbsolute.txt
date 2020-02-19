@@ -1,0 +1,15 @@
+M:\CSharp\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+M:\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csprojResolveAssemblyReference.cache
+M:\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Form1.resources
+M:\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.Properties.Resources.resources
+M:\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.csproj.GenerateResource.Cache
+M:\CSharp\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe
+M:\CSharp\DiceRoller\DiceRoller\bin\Debug\DiceRoller.pdb
+M:\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+M:\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb
+M:\CS1\CSharp\DiceRoller\DiceRoller\bin\Debug\DiceRoller.exe.config
+M:\CS1\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.exe
+M:\CS1\CSharp\DiceRoller\DiceRoller\obj\Debug\DiceRoller.pdb

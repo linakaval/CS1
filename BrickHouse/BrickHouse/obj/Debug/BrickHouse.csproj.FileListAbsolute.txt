@@ -1,0 +1,21 @@
+M:\CSharp\BrickHouse\BrickHouse\bin\Debug\BrickHouse.exe.config
+M:\CSharp\BrickHouse\BrickHouse\bin\Debug\BrickHouse.exe
+M:\CSharp\BrickHouse\BrickHouse\bin\Debug\BrickHouse.pdb
+M:\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.csprojResolveAssemblyReference.cache
+M:\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.Form1.resources
+M:\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.Properties.Resources.resources
+M:\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.csproj.GenerateResource.Cache
+M:\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.exe
+M:\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\BrickHouse\BrickHouse\bin\Debug\BrickHouse.exe.config
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.pdb
+M:\CS1\CSharp\BrickHouse\BrickHouse\bin\Debug\BrickHouse.exe.config
+M:\CS1\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.exe
+M:\CS1\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.pdb
+M:\CS1\CSharp\BrickHouse\BrickHouse\bin\Debug\BrickHouse.exe
+M:\CS1\CSharp\BrickHouse\BrickHouse\bin\Debug\BrickHouse.pdb
+M:\CS1\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.csprojResolveAssemblyReference.cache
+M:\CS1\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.Form1.resources
+M:\CS1\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.Properties.Resources.resources
+M:\CS1\CSharp\BrickHouse\BrickHouse\obj\Debug\BrickHouse.csproj.GenerateResource.Cache

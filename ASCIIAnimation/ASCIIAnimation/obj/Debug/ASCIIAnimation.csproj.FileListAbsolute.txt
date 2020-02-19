@@ -1,0 +1,33 @@
+C:\temp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.exe.config
+C:\temp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.csprojResolveAssemblyReference.cache
+C:\temp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.Form1.resources
+C:\temp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.Properties.Resources.resources
+C:\temp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.csproj.GenerateResource.Cache
+C:\temp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.exe
+C:\temp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.pdb
+C:\temp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.exe
+C:\temp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.pdb
+E:\Resources\East Resources\CS1\08 ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.exe.config
+E:\Resources\East Resources\CS1\08 ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.exe
+E:\Resources\East Resources\CS1\08 ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.pdb
+E:\Resources\East Resources\CS1\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.exe.config
+E:\Resources\East Resources\CS1\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.exe
+E:\Resources\East Resources\CS1\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.pdb
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.exe.config
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.exe
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.pdb
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.csprojResolveAssemblyReference.cache
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.Form1.resources
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.Properties.Resources.resources
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.csproj.GenerateResource.Cache
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.exe
+M:\CSharp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.exe.config
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\bin\Debug\ASCIIAnimation.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.csprojResolveAssemblyReference.cache
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.Form1.resources
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.Properties.Resources.resources
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\ASCIIAnimation\ASCIIAnimation\obj\Debug\ASCIIAnimation.csproj.GenerateResource.Cache

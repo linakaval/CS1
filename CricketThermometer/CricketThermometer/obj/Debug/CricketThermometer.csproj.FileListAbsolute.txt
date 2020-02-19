@@ -1,0 +1,9 @@
+M:\CSharp\CricketThermometer\CricketThermometer\bin\Debug\CricketThermometer.exe.config
+M:\CSharp\CricketThermometer\CricketThermometer\bin\Debug\CricketThermometer.exe
+M:\CSharp\CricketThermometer\CricketThermometer\bin\Debug\CricketThermometer.pdb
+M:\CSharp\CricketThermometer\CricketThermometer\obj\Debug\CricketThermometer.csprojResolveAssemblyReference.cache
+M:\CSharp\CricketThermometer\CricketThermometer\obj\Debug\CricketThermometer.Form1.resources
+M:\CSharp\CricketThermometer\CricketThermometer\obj\Debug\CricketThermometer.Properties.Resources.resources
+M:\CSharp\CricketThermometer\CricketThermometer\obj\Debug\CricketThermometer.csproj.GenerateResource.Cache
+M:\CSharp\CricketThermometer\CricketThermometer\obj\Debug\CricketThermometer.exe
+M:\CSharp\CricketThermometer\CricketThermometer\obj\Debug\CricketThermometer.pdb

@@ -1,0 +1,6 @@
+M:\CSharp\CarTester\CarTester\bin\Debug\CarTester.exe.config
+M:\CSharp\CarTester\CarTester\bin\Debug\CarTester.exe
+M:\CSharp\CarTester\CarTester\bin\Debug\CarTester.pdb
+M:\CSharp\CarTester\CarTester\obj\Debug\CarTester.csprojResolveAssemblyReference.cache
+M:\CSharp\CarTester\CarTester\obj\Debug\CarTester.exe
+M:\CSharp\CarTester\CarTester\obj\Debug\CarTester.pdb

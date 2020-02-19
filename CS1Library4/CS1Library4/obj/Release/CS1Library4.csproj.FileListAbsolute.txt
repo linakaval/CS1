@@ -1,0 +1,9 @@
+C:\temp\CS1Library4\CS1Library4\bin\Release\CS1Library4.dll
+C:\temp\CS1Library4\CS1Library4\bin\Release\CS1Library4.pdb
+C:\temp\CS1Library4\CS1Library4\obj\Release\CS1Library4.dll
+C:\temp\CS1Library4\CS1Library4\obj\Release\CS1Library4.pdb
+M:\CSharp\CS1Library4\CS1Library4\bin\Release\CS1Library4.dll
+M:\CSharp\CS1Library4\CS1Library4\bin\Release\CS1Library4.pdb
+M:\CSharp\CS1Library4\CS1Library4\obj\Release\CS1Library4.csprojResolveAssemblyReference.cache
+M:\CSharp\CS1Library4\CS1Library4\obj\Release\CS1Library4.dll
+M:\CSharp\CS1Library4\CS1Library4\obj\Release\CS1Library4.pdb

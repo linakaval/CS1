@@ -1,0 +1,9 @@
+M:\CSharp\PracticeChapter2\PracticeChapter2\bin\Debug\PracticeChapter2.exe.config
+M:\CSharp\PracticeChapter2\PracticeChapter2\bin\Debug\PracticeChapter2.exe
+M:\CSharp\PracticeChapter2\PracticeChapter2\bin\Debug\PracticeChapter2.pdb
+M:\CSharp\PracticeChapter2\PracticeChapter2\obj\Debug\PracticeChapter2.csprojResolveAssemblyReference.cache
+M:\CSharp\PracticeChapter2\PracticeChapter2\obj\Debug\PracticeChapter2.exe
+M:\CSharp\PracticeChapter2\PracticeChapter2\obj\Debug\PracticeChapter2.pdb
+M:\CS1\CSharp\PracticeChapter2\PracticeChapter2\bin\Debug\PracticeChapter2.exe.config
+M:\CS1\CSharp\PracticeChapter2\PracticeChapter2\obj\Debug\PracticeChapter2.exe
+M:\CS1\CSharp\PracticeChapter2\PracticeChapter2\obj\Debug\PracticeChapter2.pdb

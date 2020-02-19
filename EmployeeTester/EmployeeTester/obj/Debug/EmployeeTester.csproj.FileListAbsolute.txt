@@ -1,0 +1,6 @@
+M:\CSharp\EmployeeTester\EmployeeTester\bin\Debug\EmployeeTester.exe.config
+M:\CSharp\EmployeeTester\EmployeeTester\bin\Debug\EmployeeTester.exe
+M:\CSharp\EmployeeTester\EmployeeTester\bin\Debug\EmployeeTester.pdb
+M:\CSharp\EmployeeTester\EmployeeTester\obj\Debug\EmployeeTester.csprojResolveAssemblyReference.cache
+M:\CSharp\EmployeeTester\EmployeeTester\obj\Debug\EmployeeTester.exe
+M:\CSharp\EmployeeTester\EmployeeTester\obj\Debug\EmployeeTester.pdb

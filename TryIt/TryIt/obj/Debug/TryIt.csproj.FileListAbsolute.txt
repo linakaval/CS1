@@ -1,0 +1,6 @@
+M:\CSharp\TryIt\TryIt\bin\Debug\TryIt.exe.config
+M:\CSharp\TryIt\TryIt\bin\Debug\TryIt.exe
+M:\CSharp\TryIt\TryIt\bin\Debug\TryIt.pdb
+M:\CSharp\TryIt\TryIt\obj\Debug\TryIt.csprojResolveAssemblyReference.cache
+M:\CSharp\TryIt\TryIt\obj\Debug\TryIt.exe
+M:\CSharp\TryIt\TryIt\obj\Debug\TryIt.pdb

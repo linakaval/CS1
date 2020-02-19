@@ -1,0 +1,18 @@
+M:\CSharp\Jokes\Jokes\bin\Debug\Jokes.exe.config
+M:\CSharp\Jokes\Jokes\bin\Debug\Jokes.exe
+M:\CSharp\Jokes\Jokes\bin\Debug\Jokes.pdb
+M:\CSharp\Jokes\Jokes\obj\Debug\Jokes.csprojResolveAssemblyReference.cache
+M:\CSharp\Jokes\Jokes\obj\Debug\Jokes.Form1.resources
+M:\CSharp\Jokes\Jokes\obj\Debug\Jokes.Properties.Resources.resources
+M:\CSharp\Jokes\Jokes\obj\Debug\Jokes.csproj.GenerateResource.Cache
+M:\CSharp\Jokes\Jokes\obj\Debug\Jokes.exe
+M:\CSharp\Jokes\Jokes\obj\Debug\Jokes.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\bin\Debug\Jokes.exe.config
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\obj\Debug\Jokes.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\obj\Debug\Jokes.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\bin\Debug\Jokes.exe
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\bin\Debug\Jokes.pdb
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\obj\Debug\Jokes.csprojResolveAssemblyReference.cache
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\obj\Debug\Jokes.Form1.resources
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\obj\Debug\Jokes.Properties.Resources.resources
+E:\LEHS Data\Students\CS1\kaval_L\CSharp\Jokes\Jokes\obj\Debug\Jokes.csproj.GenerateResource.Cache
